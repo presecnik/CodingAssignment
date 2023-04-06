@@ -31,4 +31,4 @@ We will evaluate your code based on the following criteria:
 **Best practices**: Does your code follow best practices for ASP.NET and C# development?
 
 
-> Good luck?
+> Good luck!
